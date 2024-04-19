@@ -1,2 +1,3 @@
 # Nju2024Spring-Discrete-Mathematics
 个人使用obsidian对离散数学笔记的整理，主要是梳理自己的思路，有针对考试的题型，也许后续会有对离散数学中涉及的数论、集合论等的深入讨论
+由于笔记中很多latex写成的数学公式，和文件之间的链接联系，目前不知道如何在github中实现，建议在latex环境下阅读，或者下载obsidian，导入obsidian库中进行阅读
